@@ -56,6 +56,10 @@ This document outlines the steps to be taken after a Morpheus Improvement Propos
 - **Action by:** CRG
 - **Description:** Use this as the template for the proposal and don't remove any of the headings 1-11, otherwise the proposal won't be valid. 
 
+### 13. Update list of approved projects 
+- **Action by:** CRG
+- **Description:** If the DAO governance vote passed, update the [Approved Projects](https://github.com/Morlabs/Projects/blob/main/approved_projects.md)
+
 ## Conclusion
 
 Following the approval of a MIP, it is crucial for both the MIP Author and the CRG to work closely to ensure the successful implementation of the proposal. This document provides a structured approach to navigating the post-approval phase, emphasizing transparency, accountability, and community involvement.
