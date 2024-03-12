@@ -1,4 +1,4 @@
-# Morpheus Improvement Proposal (MIP) Post-Approval Process
+# New Projects = Morpheus Improvement Proposal (MIP) Post-Approval Process
 
 ## Introduction
 
