@@ -1,10 +1,10 @@
 # Approved Projects Tracker
 
-| Project Name | Category    | Owner        | Start Date | End Date   | Budget  | Status     |
-|--------------|-------------|--------------|------------|------------|---------|------------|
-| Example 1    | Development | John Doe     | 2024-01-01 | 2024-06-01 | $50,000 | In Progress|
-| Example 2    | Marketing   | Jane Smith   | 2024-02-15 | 2024-08-15 | $30,000 | Pending    |
-| Example 3    | Research    | Alex Johnson | 2024-03-01 | 2024-09-01 | $45,000 | Completed  |
+| Project Name                    | Category    | Owner                                             | Start Date | End Date   | Budget  | Status     | Sub-DAO            |
+|---------------------------------|-------------|---------------------------------------------------|------------|------------|---------|------------|--------------------|
+| [Example 1](LinkToProposal1)    | Development | [John Doe](https://github.com/JohnDoe)           | 2024-01-01 | 2024-06-01 | $50,000 | In Progress| [Sub-DAO Link 1]() |
+| [Example 2](LinkToProposal2)    | Marketing   | [Jane Smith](https://github.com/JaneSmith)       | 2024-02-15 | 2024-08-15 | $30,000 | Pending    | [Sub-DAO Link 2]() |
+| [Example 3](LinkToProposal3)    | Research    | [Alex Johnson](https://github.com/AlexJohnson)   | 2024-03-01 | 2024-09-01 | $45,000 | Completed  | [Sub-DAO Link 3]() |
 
 ## Project Status Definitions
 
